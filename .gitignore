@@ -1,0 +1,18 @@
+# Binaries and compiled files
+autosql
+*.exe
+*.log
+*.db
+*.sqlite
+
+# Python
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+.env
+*.key
